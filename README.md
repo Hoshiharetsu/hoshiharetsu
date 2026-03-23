@@ -2,7 +2,7 @@
 
 ## Computer Science Educator | Programming Instructor | Curriculum Developer
 
-I am an Associate Professor at the Community College of Allegheny County, currently teaching within the Multimedia Communications discipline teaching video game design and development. I also teach in the Computer Information Technologies discipline where I focus on Java, Python, and web technologies.
+I am an Associate Professor at the Community College of Allegheny County, teaching within both the Multimedia Communications and Computer Information Technologies disciplines. My current instruction includes video game design and development, as well as programming courses in Java, Python, and web technologies.
 
 My work centers on developing accessible, concept-driven programming instruction while expanding into deeper Computer Science topics such as systems programming and low-level architecture.
 
