@@ -70,8 +70,6 @@ This work supports my transition into teaching systems and architecture concepts
 - Developed and delivered asynchronous, hybrid, and in-person courses  
 - Integrated emerging technologies including AI and interactive systems into coursework  
 
-More details available in my CV: :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## Professional Focus
