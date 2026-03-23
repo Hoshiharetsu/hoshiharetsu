@@ -86,6 +86,3 @@ More details available in my CV: :contentReference[oaicite:0]{index=0}
 
 - Email: rdupont@ccac.edu  
 - LinkedIn: linkedin.com/in/raeinpitt  
-
-- ⚡ Fun fact: ...
--->
